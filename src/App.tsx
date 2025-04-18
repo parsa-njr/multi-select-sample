@@ -1,9 +1,6 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+
 import "./App.css";
 import { MultiSelectDropdown } from "./components/MultiSelect";
-// import { GraduationCap, FlaskConical, Palette, SoccerBall, Gamepad, Hospital } from "lucide-react";
 
 function App() {
 
